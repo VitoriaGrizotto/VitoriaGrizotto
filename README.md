@@ -13,7 +13,7 @@
 
 ## Sobre mim 
 
-Prazer me chamo Vitória, tenho 18 anos, moro em Sumaré/SP. Sou uma jovem aprendiz cursando Analise e desenvolvimento de sistemas, estou em uma constancia descoberta sobre mim sempre. Sou apaixonada em cozinhar e cachorros. Quero seguir sempre meus objetivos, sempre melhorando cada vez mais.
+Prazer me chamo Vitória, tenho 19 anos, moro em SP. Sou uma jovem aprendiz cursando Analise e desenvolvimento de sistemas, estou em uma constancia descoberta sobre mim sempre. Sou apaixonada em cozinhar e adoro cachorros. Quero seguir sempre meus objetivos, melhorando cada vez mais.
 
 - 🔭 Estudo Desenvolvimento de sistemas no SENAI
 - 👨‍🎓 Possuo técnico em informática pelo Instituto Federal de Hortôlandia
